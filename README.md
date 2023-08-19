@@ -6,7 +6,7 @@
 - Frontend: JavaScript, React.js, HTML5, CSS3
 - Mobile:Kotln
 - Backend: Node.js
-- Database: SQLite
+- Database: SQLite.
   
 ## Projects
 
