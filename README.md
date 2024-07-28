@@ -3,17 +3,16 @@
 -  I specialize in building responsive and dynamic applications using modern technologies. Here's a glimpse into my coding journey:
 - 🌱## Skills and Technologies
 
-- Frontend: JavaScript, React.js, HTML5, CSS3
+- Frontend: JavaScript, HTML5, CSS3
 - Mobile:Kotln
-- Backend: Node.js
-- Database: SQLite.
+- Backend: php
+- Database: SQL.
   
 ## Projects
 
 ### E-Commerce Website
 
-A fully responsive e-commerce website that offers users an engaging shopping experience. Leveraged React and Redux to manage state and interactions.
-
+A fully responsive e-commerce website that offers users an engaging shopping experience. 
 💬 Let's Connect:
 - LinkedIn: https://www.linkedin.com/in/dominic-odida-355ba2287
 - Twitter: https://twitter.com/OdidaDominic?t=BhvnBfybdPocO2wALe5Czw&s=09
