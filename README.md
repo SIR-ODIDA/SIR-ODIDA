@@ -5,7 +5,7 @@
 
 - Frontend: JavaScript, HTML5, CSS3
 - Mobile:Kotln
-- Backend: php
+- Backend: php,Laravel
 - Database: SQL.
   
 ## Projects
