@@ -15,8 +15,7 @@
 A fully responsive e-commerce website that offers users an engaging shopping experience. 
 💬 Let's Connect:
 - LinkedIn: https://www.linkedin.com/in/dominic-odida-355ba2287
-- Twitter: https://twitter.com/OdidaDominic?t=BhvnBfybdPocO2wALe5Czw&s=09
-
+ 
 <!---
 SIR-ODIDA/SIR-ODIDA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
