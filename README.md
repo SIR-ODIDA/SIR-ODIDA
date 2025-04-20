@@ -3,7 +3,7 @@
 
 ## Skills and Technologies
 
-- **Frontend:** JavaScript, HTML5, CSS3  
+- **Frontend:** JavaScript, HTML5, CSS3, React
 - **Mobile:** Kotlin  
 - **Backend:** PHP, Laravel, Python, Django  
 - **Database:** SQL, PostgreSQL  
